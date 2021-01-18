@@ -1,2 +1,2 @@
-# wa_blaster
+# Wa Blaster
 For subscribed users
